@@ -1,6 +1,6 @@
 package App::Dataninja;
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 1;
 
@@ -9,6 +9,10 @@ __END__
 =head1 NAME
 
 App::Dataninja - Extensible, DBIC-based IRC bot
+
+=head1 WARNING
+
+This dist is horribly out of date, and I am no longer releasing any new features. I update this IRC bot on github regularly (L<https://github.com/jasonmay/dataninja>) so I would recommend grabbing from there to contribute/tinker.
 
 =head1 DESCRIPTION
 

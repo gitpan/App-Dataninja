@@ -1,3 +1,4 @@
+App-Dataninja-0.04.tar.gz
 bin/dataninja.pl
 Changes
 example/botbot/botbot.pl
@@ -7,6 +8,17 @@ example/botbot/lib/Botbot.pm
 example/botbot/lib/Botbot/Plugin/Fooo.pm
 example/botbot/secret_config.yml
 example/botbot/site_config.yml
+inc/Module/AutoInstall.pm
+inc/Module/Install.pm
+inc/Module/Install/AutoInstall.pm
+inc/Module/Install/Base.pm
+inc/Module/Install/Can.pm
+inc/Module/Install/Include.pm
+inc/Module/Install/Makefile.pm
+inc/Module/Install/Metadata.pm
+inc/Module/Install/Scripts.pm
+inc/Module/Install/Win32.pm
+inc/Module/Install/WriteAll.pm
 lib/App/Dataninja.pm
 lib/App/Dataninja/Bot.pm
 lib/App/Dataninja/Bot/Dispatcher.pm

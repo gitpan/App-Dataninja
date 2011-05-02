@@ -6,7 +6,6 @@ Makefile$
 Makefile.old$
 doc
 etc
-inc
 MANIFEST.bak
 t/200-web-basics.t
 lib/App/Dataninja/Web
